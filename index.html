@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, shrink-to-fit=no"
+/>
+<!-- Favicon-->
+<link rel="shortcut icon" href="img/fav.png" />
+<!-- Author Meta -->
+<meta name="author" content="codepixer" />
+<!-- Meta Description -->
+<meta name="description" content="" />
+<!-- Meta Keyword -->
+<meta name="keywords" content="" />
+<!-- meta character set -->
+<meta charset="UTF-8" />
+<!-- Site Title -->
+<title>B1Desk</title>
+<!--banner ani -->
+<link
+  rel="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"
+/>
+<link
+  rel="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.2/css/bootstrap.css"
+/>
+<link
+  href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700"
+  rel="stylesheet"
+/>
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+/>
+<link rel="icon" type="image/x-icon" href="favicon.ico" />
+<!--  
+  Favicons
+  =============================================
+  -->
+<link
+  rel="apple-touch-icon"
+  sizes="57x57"
+  href="img/favicons/apple-icon-57x57.png"
+/>
+<link
+  rel="apple-touch-icon"
+  sizes="60x60"
+  href="img/favicons/apple-icon-60x60.png"
+/>
+<link
+  rel="apple-touch-icon"
+  sizes="72x72"
+  href="img/favicons/apple-icon-72x72.png"
+/>
+<link
+  rel="apple-touch-icon"
+  sizes="76x76"
+  href="img/favicons/apple-icon-76x76.png"
+/>
+<link
+  rel="apple-touch-icon"
+  sizes="114x114"
+  href="img/favicons/apple-icon-114x114.png"
+/>
+<link
+  rel="apple-touch-icon"
+  sizes="120x120"
+  href="img/favicons/apple-icon-120x120.png"
+/>
+<link
+  rel="apple-touch-icon"
+  sizes="144x144"
+  href="img/favicons/apple-icon-144x144.png"
+/>
+<link
+  rel="apple-touch-icon"
+  sizes="152x152"
+  href="img/favicons/apple-icon-152x152.png"
+/>
+<link
+  rel="apple-touch-icon"
+  sizes="180x180"
+  href="img/favicons/apple-icon-180x180.png"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="192x192"
+  href="assets/images/favicons/android-icon-192x192.png"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="32x32"
+  href="img/favicons/favicon-32x32.png"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="96x96"
+  href="img/favicons/favicon-96x96.png"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="16x16"
+  href="img/favicons/favicon-16x16.png"
+/>
+<link rel="stylesheet" href="css/banner-ani.css" />
+<link rel="stylesheet" href="styles.f09ce0fe66b4c5bc2012.css" />
+<link rel="stylesheet" href="css/linearicons.css" />
+<link rel="stylesheet" href="css/font-awesome.min.css" />
+<link rel="stylesheet" href="css/bootstrap.css" />
+<link rel="stylesheet" href="css/magnific-popup.css" />
+<link rel="stylesheet" href="css/nice-select.css" />
+<link rel="stylesheet" href="css/animate.min.css" />
+<link rel="stylesheet" href="css/owl.carousel.css" />
+<link rel="stylesheet" href="css/main.css" />
+<style>
+body {
+  /* margin-left: 200px; */
+  background: #5d9ab2 url("img_tree.png") no-repeat top left;
+}
+
+.center_div {
+  border: 1px solid gray;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background-color: #d0f0f6;
+  text-align: left;
+  padding: 8px;
+}
+.page-container {
+      padding-left: 0;
+    }
+.header{
+  background-color: #d0f0f6;
+  width: 100%;
+  background-size: cover;
+  height: 200px;
+  background: url("./img/health.jpg");
+}
+.content{
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: #d0f0f6;
+  width: 50%;
+  height: 400px;
+}
+
+.label{
+  font-size: 20px;
+  font-weight: 100;
+}
+
+</style>
+
+<script type="text/javascript">
+{
+  localStorage.clear();
+}
+
+console.log(  document.getElementById("hospital"));
+  function call(e) {
+    console.log("e \n"+e);
+    if(e =="Goverment"){
+      document.getElementById("pri").checked = false;
+      document.getElementById("hospital").setAttribute("list", "gHospital");
+    }else if(e =="Private"){
+      document.getElementById("gov").checked = false;
+      document.getElementById("hospital").setAttribute("list", "pHospital");
+    }
+}
+function hospital(event) {
+
+      console.log("Option \n"+document.getElementById("hospital").value);
+    
+}
+function submit() {
+  console.log("Option \n"+document.getElementById("hospital").value);
+  localStorage.setItem('hospital',document.getElementById("hospital").value);
+
+window.location.href = "file:///C:/Users/RANGANATHAN/Desktop/New%20folder/page2.html"
+
+}
+</script>
+
+
+</head>
+
+<body>
+
+<div class="col-lg-12 header"></div>
+
+<div class="content" >
+  <div class="col col-space">
+  <h2 style="text-align: center">Hospital locating services</h2>
+  <br/>
+  <h6  style="text-align: center; color: #000">Our Aim is to provide best information about the hospitals<br> and its location to the peoples of Villupuram.</h6>
+  <br/>  <br/>
+
+<div class="row row-space">
+<div class="col-2"></div>
+<div class="col-2">
+   <label class="label">District</label>
+  </div>
+   <div class="col-2"></div>
+   <div class="col-2">
+  <input disabled="true" size="28" value="Villupuram"/>
+</div>
+</div>
+<br>
+
+<!-- <div class="row row-space">
+  <div class="col-2"></div>
+  <div class="col-3">
+     <label class="label">Type</label>
+    </div>
+     <div class="col-1"></div>
+  <div class="col-2">
+  <input type="checkbox" name="Goverment" id="gov"  onclick="call(name)">Goverment</input>
+</div>
+<div class="col-2">
+  <input type="checkbox" name="Private" id="pri" onclick="call(name)">Private</input>
+  </div>
+</div>
+<br> -->
+
+
+
+<div class="row row-space">
+<div class="col-2"></div>
+<div class="col-3">
+   <label class="label">Hospital List</label>
+  </div>
+   <div class="col-1"></div>
+ <form action="page2.html">
+<div class="col-2">
+
+ <select name="hospital" id="hospital" name="hospital" style="height: 30px;" onchange="hospital()">
+  <option value=""></option>
+  <option value="villupuram govt hospital">villupuram govt hospital</option>
+  <option value="Marakkanam govt hospital">Marakkanam govt hospital</option>
+  <option value="Gingee govt hospital">Gingee govt hospital</option>
+  <option value="Tindivanam govt hospital">Tindivanam govt hospital</option>
+  <option value="Kalakuruchi govt hospital">Kalakuruchi govt hospital</option>
+  <option value="ullundurpet govt hospital">ullundurpet govt hospital</option>
+  <option value="Thirukoilure govt hospital">Thirukoilure govt hospital</option>
+  <option value="E.S Hospital">E.S Hospital</option>
+  <option value="Maragadham hospital">Maragadham hospital</option>
+  <option value="Aswini hospital">Aswini hospital</option>
+  <option value="Hindu mission hospital">Hindu mission hospital</option>
+  <option value="Hari hospital">Hari hospital</option>
+  <option value="Sumathy hospital">Sumathy hospital</option>
+  <option value="Narayanan hospital">Narayanan hospital</option>
+  <option value="Karpagam nursing home">Karpagam nursing home</option>
+  <option value="lakshmi hospital">lakshmi hospital</option>
+  <option value="RRM Gastro hospital">RRM Gastro hospital</option>
+  <option value="Durai gastro hospital">Durai gastro hospital</option>
+  <option value="Jessly eye clinic">Jessly eye clinic</option>
+  <option value="Dr.Captain ramachandran hospital">Dr.Captain ramachandran hospital</option>
+  <option value="Agarwal eye hospital">Agarwal eye hospital</option>
+  <option value="Dr.R.Sudhakar hospital">Dr.R.Sudhakar hospital</option>
+</select>
+</form>
+ <!-- <input id="hospital" list="" name="hospital" onchange="hospital(event)">
+  <datalist id="gHospital">
+    <option value="villupuram govt hospital">
+    <option value="Marakkanam govt hospital">
+    <option value="Gingee govt hospital">
+    <option value="Tindivanam govt hospital">
+    <option value="Kalakuruchi govt hospital">
+    <option value="ullundurpet govt hospital">
+    <option value="Thirukoilure govt hospital">
+  </datalist>
+  <datalist id="pHospital">
+    
+                  <option value="E.S Hospital">
+                  <option value="Maragadham hospital">
+                  <option value="Aswini hospital">
+                  <option value="Hindu mission hospital">
+                  <option value="Hari hospital">
+                  <option value="Sumathy hospital">
+                  <option value="Narayanan hospital">
+                  <option value="Karpagam nursing home">
+                  <option value="lakshmi hospital">
+                  <option value="RRM Gastro hospital">
+                  <option value="Durai gastro hospital">
+                  <option value="Jessly eye clinic">
+                  <option value="Dr.Captain ramachandran hospital">
+                  <option value="Agarwal eye hospital">
+                  <option value="Dr.R.Sudhakar hospital">
+                
+  </datalist>  -->
+  
+</div></div>
+<br>
+<br>
+<div class="row row-space">
+  <div class="col-5"></div>
+  <div class="col-2">
+     <button onclick="submit()">SUBMIT</button>
+  </div>
+  <div class="col-5"></div>
+  </div>
+
+
+</div>
+
+</div>
+
+</div>
+</body>
+</html>
+
+
+<!-- <select name="hospital" id="hospital">
+  <option value="">villupuram govt hospital</option>
+  <option value="villupuram govt hospital">villupuram govt hospital</option>
+  <option value="Marakkanam govt hospital">Marakkanam govt hospital</option>
+  <option value="Gingee govt hospital">Gingee govt hospital</option>
+  <option value="Tindivanam govt hospital">Tindivanam govt hospital</option>
+  <option value="Kalakuruchi govt hospital">Kalakuruchi govt hospital</option>
+  <option value="ullundurpet govt hospital">ullundurpet govt hospital</option>
+  <option value="Thirukoilure govt hospital">Thirukoilure govt hospital</option>
+
+  ==========private hospital===========
+  <option value="E.S Hospital">E.S Hospital</option>
+  <option value="Maragadham hospital">Maragadham hospital</option>
+  <option value="Aswini hospital">Aswini hospital</option>
+  <option value="Hindu mission hospital">Hindu mission hospital</option>
+  <option value="Hari hospital">Hari hospital</option>
+  <option value="Sumathy hospital">Sumathy hospital</option>
+  <option value="Narayanan hospital">Narayanan hospital</option>
+  <option value="Karpagam nursing home">Karpagam nursing home</option>
+  <option value="lakshmi hospital">lakshmi hospital</option>
+  <option value="RRM Gastro hospital">RRM Gastro hospital</option>
+  <option value="Durai gastro hospital">Durai gastro hospital</option>
+  <option value="Jessly eye clinic">Jessly eye clinic</option>
+  <option value="Dr.Captain ramachandran hospital">Dr.Captain ramachandran hospital</option>
+  <option value="Agarwal eye hospital">Agarwal eye hospital</option>
+  <option value="Dr.R.Sudhakar hospital">Dr.R.Sudhakar hospital</option>
+</select> -->
