@@ -1,0 +1,163 @@
+{
+"private hospital":[
+{
+"hospitalName":"E.S Hospital",
+"address":"No.32-B trichy trunk road villupuram,tamilnadu 605602",
+"doctorName":"Dr.Rajeshwari MD.,DGO., Dr.vinodha MD.,DGO., Dr.sudha  MD.,DGO.,",
+"contactNumber":"04146 251035",
+"timing":"24hrs",
+"website":"www.eshospital.net",
+"locationLink":"https://www.google.com/maps/place/Trichy+Main+Rd,+Moovendar+Nagar,+Viluppuram,+Tamil+Nadu+605602/@11.9364483,79.4849583,17z/data=!4m2!3m1!1s0x3a5356912e2eb90f:0xdc1c2316f9784780?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Maragadham hospital",
+"address":"East pondy road,near gandhi statue,villupuram 605602",
+"doctorName":"Dr.K.Thiagarajan MS Dr.T.padmini MBBS.,DGO.,",
+"contactNumber":"04146 225456",
+"timing":"24hrs",
+"website":"www.maragadham.com",
+"locationLink":"https://www.google.com/maps/place/Maragadham+Hospital,+E+Pondy+Rd,+Near+Gandhi+Statue,+Mandhakarai,+Viluppuram,+Tamil+Nadu+605602/@11.9415135,79.4960087,17z/data=!4m2!3m1!1s0x3a5356eaf58c40df:0xe3dfeef3b61e9eb0?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Aswini hospital",
+"address":"No.NH45A,thiruvika street villupuram,tamilnadu 605602",
+"doctorName":"Dr.Sakthipriya MBBS.,DGO.,",
+"contactNumber":"04146 222999",
+"timing":"24hrs",
+"website":"www.aswninihospital.net",
+"locationLink":"https://www.google.com/maps/place/11.941023,+79.489883/@11.9401679,79.4896134,17z?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Hindu mission hospital",
+"address":"Jai sankara hospital,no.11,puntottam pathai,villupuram 605602",
+"doctorName":"Dr.V.Manimegalai MBBS., Dr.S.Chandrakala MD.,DGO.,",
+"contactNumber":"04146 225922",
+"timing":"24hrs",
+"website":"www.nph.gov.in",
+"locationLink":"https://www.google.com/maps/place/Jai+Sankara+Hindu+Mission+Hospital,+No.11,+Puntottam+Pathai,+Viluppuram,+Tamil+Nadu+605602/@11.9389246,79.4897758,17z/data=!4m2!3m1!1s0x3a535694599d0ca5:0x819f290274803c3b?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Hari hospital",
+"address":"NH-45A  east pondy road villupuram tamilnadu 605602",
+"doctorName":"Dr.P.Shanthi MBBS.,DGO Dr.manga MD.,DGO.,",
+"contactNumber":"04146 22414",
+"timing":"24hrs",
+"website":"www.clickedindia.net",
+"locationLink":"https://www.google.com/maps/place/Hari+Hospital,+Viluppuram,+NH-45A,+East+Pondy+Road,+Viluppuram,+Viluppuram,+605602/@11.9396211,79.4862423,17z/data=!4m2!3m1!1s0x3a53569689fb7aa9:0xdac52962e7989884?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Sumathy hospital",
+"address":"39,mambazhapattu road,govindhaswamy nagar,villupuram 605602",
+"doctorName":"Dr.Margaret MD.,DGO., Dr.Marry punitha MS., Dr.Bernard raj  MS., ortho",
+"contactNumber":"04146 224900",
+"timing":"24hrs",
+"website":"www.sumathyhospital.com",
+"locationLink":"https://www.google.com/maps/place/SUMATHI+HOSPITAL,+39,+Mambalapattu+Rd,+Govindhaswamy+Nagar,+Viluppuram,+Tamil+Nadu+605602/@11.9387267,79.4792383,17z/data=!4m2!3m1!1s0x3a53572e67d8589d:0x9c403a3756b19a45?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Narayanan hospital",
+"address":"KK road,kk nagar,villupuram tamilnadu 605602",
+"doctorName":"Dr.N.Muraleedharan MS.,",
+"contactNumber":"7947430634",
+"timing":"9.30am-9.30pm",
+"website":"www.onefivenine.com",
+"locationLink":"https://www.google.com/maps/place/Narayanan+Hospital,+KK+Rd,+K+K+Nagar,+Viluppuram,+Tamil+Nadu+605602/@11.9381381,79.4926503,17z/data=!4m2!3m1!1s0x3a535694b37ebab1:0x74b55434bfc2c6f2?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Karpagam nursing home",
+"address":"20 navap thope lane,villupuram,tamilnadu 605602",
+"doctorName":"Dr.nalini MD.,DGO.,",
+"contactNumber":"04146 222436",
+"timing":"8am-10pm",
+"website":"www.sehat.com",
+"locationLink":"https://www.google.com/maps/place/karpagam+nursing+home,+20+Navap+thope+lane,+Viluppuram,+Tamil+Nadu/@11.9455669,79.4979166,17z/data=!4m2!3m1!1s0x3a5356c182d7202b:0xcba105c78d978c73?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"lakshmi hospital",
+"address":"trichy mainroad,moovendar nagar,villupuram tamilnadu 605602",
+"doctorName":"Dr.Mohan MS.,",
+"contactNumber":"04146 222227",
+"timing":"24hrs",
+"website":"www.justdial.com",
+"locationLink":"https://www.google.com/maps/place/Lakshmi+Hospital,+Trichy+Main+Rd,+Moovendar+Nagar,+Viluppuram,+Tamil+Nadu+605602/@11.9387698,79.4856126,17z/data=!4m2!3m1!1s0x3a535696edb49b95:0xc9cfa1d4ae78aafc?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"RRM Gastro hospital",
+"address":"flat20,raja rajeshwari nagar,behind joyallukas,puntottam,villupuram 605602",
+"doctorName":"Dr.R.Raj mahendran (gastrologist)",
+"contactNumber":"9444487183",
+"timing":"9am-7pm",
+"website":"www.rrmgastro.in",
+"locationLink":"https://www.google.com/maps/place/RRM+Gastro,+Flat+20,+Raja+Rajeswari+Nagar,+Behind+Joyalukkas,+Puntottam,+Tamil+Nadu+605602/@11.934484,79.4854224,17z/data=!4m2!3m1!1s0x3a53573df270a145:0xd95050fba65511fb?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Durai gastro hospital",
+"address":"Durai gastro care,narayanan nagar road,highways nagar,puntottam villupuram 605602.",
+"doctorName":"Dr.D.Duraimurugan (gastrologist)",
+"contactNumber":"04146 251351",
+"timing":"24hrs",
+"website":"www.duraigastrocentre.com",
+"locationLink":"https://www.google.com/maps/place/Durai+Gastro+Care,+Narayanan+Nagar+Road,+Highways+Nagar,+Puntottam,+Tamil+Nadu+605602/@11.933452,79.4847793,17z/data=!4m2!3m1!1s0x3a535691a68aee0f:0xa08ae2b272b705f5?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Jessly eye clinic",
+"address":"11 poonthottam pathai near,old bus stand,villupuram 605602",
+"doctorName":"Dr.S.Arumuga nainar MS.,DO.,",
+"contactNumber":"04146 223111",
+"timing":"9am-1.30pm",
+"website":"www.eyeclinic.bussiness.site",
+"locationLink":"https://www.google.com/maps/place/JESSLY+EYE+CLINIC,+1,Poonthottam+pathai+Near+Old+Bus+Stand,+Viluppuram,+Tamil+Nadu+605602/@11.9395374,79.4898456,17z/data=!4m2!3m1!1s0x3a535693763e34e5:0x31b7e646179cf381?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Dr.Captain ramachandran hospital",
+"address":"Kknagar villupuram tamilnadu 605602",
+"doctorName":"Dr.Captain ramachandran.M MBBS.,MD.,",
+"contactNumber":"04146 222897",
+"timing":"8am-8pm",
+"website":"www.drmramachandran.com",
+"locationLink":"https://www.google.com/maps/place/Dr.captain+Ramachandran+Villupuram,+K+K+Nagar,+Viluppuram,+Tamil+Nadu+605602/@11.9391801,79.489991,17z/data=!4m2!3m1!1s0x3a53569457eadf97:0x79046c708f2da29f?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Agarwal eye hospital",
+"address":"traffic signal,19,trichy trunk road, near villupuram 605602",
+"doctorName":"Dr.Saye sivakumar",
+"contactNumber":"04146 227556",
+"timing":"8am-8pm",
+"website":"www.dragarwal.com",
+"locationLink":"https://g.page/dr-agarwals-eye-hospital-VPM?share",
+},
+{
+"hospitalName":"Dr.R.Sudhakar hospital",
+"address":"23c,jayakrishna complex,trichy trunk road villupuram tamilnadu 05602",
+"doctorName":"Dr.Sudhakar.R MBBS.,DTCD.,",
+"contactNumber":"9751938699",
+"timing":"12pm-9.30pm",
+"website":"www.aallergycentre.com",
+"locationLink":"https://www.google.com/maps/place/Dr.+Sudhakar+R,+Near,+23C,+Jayakrishna+Complex,+Trichy+Trunk+Rd,+Viluppuram,+Tamil+Nadu+605602/@11.9382472,79.4861376,17z/data=!4m2!3m1!1s0x3a5356c155555555:0xd407ff52a6709899?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

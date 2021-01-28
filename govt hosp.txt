@@ -1,0 +1,85 @@
+{
+"govt hospital":[
+{
+"hospitalName":"villupuram govt hospital",
+"address":"vandimedu,villupuram tamilnadu 605602",
+"doctorName":"Dr.K.Jothy MBBS.,DGO., Dr.V.Manimegalai MBS.,DGO., Dr.Sasirekha MBBS.,DGO.,",
+"contactNumber":"  ",
+"timing":"24hrs",
+"website":"www.villupuram.nic.in",
+"locationLink":"https://www.google.com/maps/place/Government+Hospital,+Vandimedu,+Viluppuram,+Tamil+Nadu+605602/@11.9416784,79.4862962,16z/data=!4m2!3m1!1s0x3a53569610ea7ec3:0x8ec3e7b3bbeeddf8?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Marakkanam govt hospital",
+"address":"SHIB4,aminjikarai marakkanam tamilnadu 604 303",
+"doctorName":"Dr.E.Mariamml MS.,",
+"contactNumber":"  ",
+"timing":"24hrs",
+"website":"www.maraknam.nic.in",
+"locationLink":"https://www.google.com/maps/place/Government+Hospital,+SH+134,+Aminjikarai,+Marakkanam,+Tamil+Nadu+604303/@12.1974798,79.9496475,17z/data=!4m2!3m1!1s0x3a53725b2417a3ff:0xe08f243760415f26?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Gingee govt hospital",
+"address":"new bus stand near gingee",
+"doctorName":"Dr.K.Rajalakshmi MBBS.,DGO.,",
+"contactNumber":"04145 22215",
+"timing":"24hrs",
+"website":"www.villupuram.nic.in",
+"locationLink":"https://www.google.com/maps/place/Government+Hospital+Gingee,+Gingee,+Tamil+Nadu+604202/@12.2518904,79.4195573,17z/data=!4m2!3m1!1s0x3a53357388fefd9f:0x4ac5f5d279217af5?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Tindivanam govt hospital",
+"address":"hospital road, tindivanam tamilnadu 604001",
+"doctorName":"Dr.Muralishree MBBS.,DGO.,",
+"contactNumber":"04147 222250",
+"timing":"24hrs",
+"website":"www.tindivanam.nic.com",
+"locationLink":"https://www.google.com/maps/place/Government+Hospital+Tindivanam,+Hospital+Rd,+Tindivanam,+Tamil+Nadu+604001/@12.2300245,79.6531622,13z/data=!4m2!3m1!1s0x3a5340aa982f3a91:0xa20d0a39aee7f1bb?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Kalakuruchi govt hospital",
+"address":"48,kalaruchi,kachivapalayam road,raja nagr,kalakuruchi 606 202",
+"doctorName":"Dr.Kannan MS.,",
+"contactNumber":"4151222331",
+"timing":"24hrs",
+"website":"www.villupuram.nic.in",
+"loctionLink":"https://www.google.com/maps/place/Kallakurichi+Government+Hospital+And+Emergency+Unit,+48,+Kallakurichi+-+Kachirapalayam+Rd,+Raja+Nagar,+Kallakkurichi,+Tamil+Nadu+606202/@11.7372624,78.9593679,17z/data=!4m2!3m1!1s0x3bab66e92e78427d:0x5fa16c867219e9e8?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"ullundurpet govt hospital",
+"address":"ullundurpet tamilnadu 606107",
+"doctorName":"Dr.V.V.Prasad MS.,",
+"contactNumber":"04149 222201",
+"timing":"24hrs",
+"website":"www.kalakuruchi.nic.in",
+"locationLink":"https://www.google.com/maps/place/Ulundurpet+Government+Hospital,+Ulundurpet,+Tamil+Nadu+606107/@11.6927302,79.2859268,16z/data=!4m2!3m1!1s0x3bab51feb7cc40bf:0xd7f3f31004104562?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+{
+"hospitalName":"Thirukoilure govt hospital",
+"address":"hospital road, SH137,thirukoilure tamilnadu 6-5757 ",
+"doctorName":"Dr.chandramouli MBBS.,DGO.,",
+"contactNumber":"04153 253055",
+"timing":"24hrs",
+"website":"www.thirukoilure.nic.in",
+"locationLink":"https://www.google.com/maps/place/Government+Hospital,+Hospital+Road,+SH+137,+Thirukoilure,+Tamil+Nadu+605757/@11.9699022,79.2063353,16z/data=!4m2!3m1!1s0x3bacaf5be6d64c83:0x9e26c453f64c40ab?force=qVTs2FOxxTmHHo79-pwa&source=mlapk",
+},
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
